@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6C33F7&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer+%F0%9F%8C%9F;Node.js+Enthusiast+%F0%9F%9A%80;MongoDB+Explorer+%F0%9F%8C%B1;Express.js+Builder+%F0%9F%94%A7;Learning+%26+Growing+Daily+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
-3BjNjU5bTBoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="500" height="250"/>
 </div>
 
 ## 👨‍💻 About Me
