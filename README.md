@@ -112,7 +112,7 @@ I'm always open to:
 - 📚 Discussing tech and sharing knowledge
 - ☕ Coffee chats about code and architecture
 
-**📧 Reach me:** [arjun.dev@example.com](mailto:ar29061999@gmail.com)
+**📧 Reach me:** [email](mailto:ar29061999@gmail.com)
 
 ---
 
