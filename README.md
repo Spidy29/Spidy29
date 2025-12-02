@@ -1,125 +1,125 @@
 <div align="center">
 
-# Hi, I'm Arjun Sharma 👋
+<!-- Header with Light Green Theme -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=90EE90&height=200&section=header&text=Arjun%20Sharma&fontSize=60&fontColor=2E8B57&fontAlignY=35&desc=Backend%20Developer&descSize=20&descAlignY=55&animation=fadeIn" width="100%"/>
 
-### Backend Developer | Building Scalable Solutions
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun2903)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Spidy29)
+<!-- Stylish Name with Script Font -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&pause=1000&color=2E8B57&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Arjun+%F0%9F%91%8B;Building+Scalable+Backend+Systems;Passionate+about+Clean+Code" alt="Typing SVG" />
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-90EE90?style=for-the-badge&logo=linkedin&logoColor=2E8B57)](https://linkedin.com/in/arjun2903)
+[![GitHub](https://img.shields.io/badge/GitHub-90EE90?style=for-the-badge&logo=github&logoColor=2E8B57)](https://github.com/Spidy29)
+[![Email](https://img.shields.io/badge/Email-90EE90?style=for-the-badge&logo=gmail&logoColor=2E8B57)](mailto:ar29061999@gmail.com)
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+  
+## ✨ *About Me*
+
+</div>
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+
+🚀 **Backend Developer** @ Regrip India  
+📍 Based in **India**  
+💼 **1 Year** of professional experience  
+🎯 Goal: Master Backend by **Dec 2025**
+
+**What I Do:**
+- 🔧 Build scalable APIs & backend systems
+- 📊 Design database architectures
+- ⚡ Optimize performance & efficiency
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+  
+## 🛠️ *Tech Stack*
+
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-90EE90?style=for-the-badge&logo=javascript&logoColor=2E8B57)
+![Node.js](https://img.shields.io/badge/Node.js-90EE90?style=for-the-badge&logo=node.js&logoColor=2E8B57)
+![Express.js](https://img.shields.io/badge/Express-90EE90?style=for-the-badge&logo=express&logoColor=2E8B57)
+![MongoDB](https://img.shields.io/badge/MongoDB-90EE90?style=for-the-badge&logo=mongodb&logoColor=2E8B57)
+![MySQL](https://img.shields.io/badge/MySQL-90EE90?style=for-the-badge&logo=mysql&logoColor=2E8B57)
+![Git](https://img.shields.io/badge/Git-90EE90?style=for-the-badge&logo=git&logoColor=2E8B57)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
+  
+## 🚀 *Featured Project*
 
-```javascript
-const arjun = {
-    role: "Backend Developer",
-    company: "Regrip India Private Limited",
-    experience: "1 Year Professional",
-    location: "India",
-    focus: ["Backend Development", "API Design", "Database Architecture"],
-    goal: "Master Backend Development by December 2025"
-};
-```
+### 🍽️ Project Platter
+**Food Delivery Platform Backend**
 
-- 🔭 Currently working on **scalable backend systems**
-- 🌱 Learning **System Design** and **Cloud Technologies**
-- 💼 1 year of professional experience in backend development
-- 🎯 Goal: Become a perfect backend developer by Dec 2025
+</div>
 
----
+| Feature | Description |
+|:-------:|:-----------:|
+| 🔐 | JWT Auth & Role Management |
+| 🛒 | Real-time Order Tracking |
+| 💳 | Payment Gateway Integration |
+| ⚡ | 20+ APIs with <200ms Response |
 
-## 🛠️ Tech Stack
-
-**Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-
-**Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+**Built with:** `Node.js` • `Express.js` • `MongoDB`
 
 ---
-
-## 🚀 Featured Project
-
-### Project Platter - Food Delivery Platform
-
-A comprehensive food delivery backend system with real-time capabilities.
-
-**Key Features:**
-- 🔐 JWT-based authentication with role management
-- 🍽️ Restaurant & menu management system
-- 🛒 Real-time order processing & tracking
-- 💳 Secure payment gateway integration
-- 🔍 Advanced search & recommendations
-
-**Tech:** Node.js • Express.js • MongoDB • JWT • bcrypt
-
-**Highlights:**
-- 20+ RESTful API endpoints
-- Sub-200ms response times
-- Scalable database architecture
-- Comprehensive error handling
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
+  
+## 📊 *GitHub Stats*
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spidy29&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spidy29&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Spidy29&show_icons=true&theme=vue&hide_border=true&bg_color=ffffff&title_color=2E8B57&icon_color=90EE90&text_color=2E8B57" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spidy29&layout=compact&theme=vue&hide_border=true&bg_color=ffffff&title_color=2E8B57&text_color=2E8B57" height="165"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Spidy29&theme=vue&hide_border=true&background=ffffff&stroke=90EE90&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57" />
 
 </div>
 
 ---
 
-## 🎯 2025 Learning Roadmap
-
-| Phase | Focus Area | Status |
-|-------|-----------|--------|
-| Q3 | Advanced Node.js & Performance | 🟡 In Progress |
-| Q4 | System Design & Microservices | 🔵 Planned |
-| Q4 | AWS & Docker | 🔵 Planned |
-| Q4 | Testing & DevOps | 🔵 Planned |
-
-**Current Reading:**
-- Node.js Design Patterns
-- Designing Data-Intensive Applications
-- System Design Interview
-
----
-
-## 💬 Let's Connect
-
-I'm always open to:
-- 💼 Backend development opportunities
-- 🤝 Collaborating on interesting projects
-- 📚 Discussing tech and sharing knowledge
-- ☕ Coffee chats about code and architecture
-
-**📧 Reach me:** [email](mailto:ar29061999@gmail.com)
-
----
-
 <div align="center">
+  
+## 🤝 *Let's Connect!*
 
-*"Building robust backend systems, one API at a time"*
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Spidy29&color=blueviolet&style=flat)
+*Open to collaborations & coffee chats about code* ☕
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-90EE90?style=for-the-badge&logo=linkedin&logoColor=2E8B57)](https://linkedin.com/in/arjun2903)
+
+<br>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=90EE90&height=100&section=footer" width="100%"/>
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Spidy29&color=90EE90&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br>
+
+*✨ "Building robust backend systems, one API at a time" ✨*
 
 </div>
