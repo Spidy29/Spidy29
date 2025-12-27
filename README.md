@@ -1,59 +1,29 @@
 # Arjun Sharma
 
-**Backend Developer** | Building scalable systems, one endpoint at a time
+Backend Engineer focused on building reliable, scalable, and maintainable server-side systems.
+
+## Core Competencies
+- Backend architecture and API design
+- Database schema design and query optimization
+- Transactional workflows and data integrity
+- Performance tuning and system reliability
+
+## Technology Stack
+- Languages: JavaScript (Node.js)
+- Frameworks: Express
+- Databases: PostgreSQL, MySQL
+- Infrastructure: Docker, Linux
+- Cloud Platforms: Azure, AWS (working knowledge)
+- Tooling: Git
+
+## Engineering Approach
+- Emphasis on correctness and clarity
+- Systems designed for long-term operation
+- Practical, production-first decision making
+
+## Current Focus
+- Scalable backend architectures
+- Clean, auditable codebases
+- High-availability systems
 
 ---
-
-## Currently
-
-- 🏢 Backend Developer at **Regrip India**
-- 📍 Based in India
-- 🎯 Mastering backend architecture by December 2025
-
----
-
-## What I Build
-
-**APIs & Backend Systems** — Crafting RESTful services that scale  
-**Database Architecture** — Designing efficient data models  
-**Performance Optimization** — Making milliseconds count
-
----
-
-## Stack
-
-```
-Node.js • Express.js • MongoDB
-JWT • REST APIs • Git
-```
-
----
-
-## Featured Work
-
-### Project Platter
-*Food delivery platform backend*
-
-- Secure authentication & role-based access
-- Real-time order tracking system
-- Payment gateway integration
-- 20+ optimized APIs (sub-200ms response)
-
-**Tech**: Node.js, Express.js, MongoDB
-
----
-
-## Experience
-
-**1 year** of professional backend development  
-Shipping production-ready code since 2024
-
----
-
-## Let's Connect
-
-Open to collaboration, code reviews, and coffee chats about backend systems.
-
----
-
-*"Code with purpose, build with precision."*
