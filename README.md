@@ -31,6 +31,8 @@ Backend Engineer focused on building reliable, scalable, and maintainable server
 - GitHub: https://github.com/Spidy29
 - LinkedIn: https://www.linkedin.com/in/arjun2903
 - Email: ar29061999@gmail.com
+
+
 Open to professional discussions, engineering collaboration, and backend-focused opportunities.
 
 
